@@ -1,0 +1,119 @@
+relative_path,size_bytes,exclusion_reason,verified_excluded_from_staging
+SASP.rar,491249039,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/BRO Files/BRO Files 22-1-2015/11/conn.log,202058020,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/NUSW-NB15_GT.csv,86426111,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/UNSW-NB15_1.csv,168979718,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/UNSW-NB15_2.csv,165221021,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/UNSW-NB15_3.csv,154588103,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/UNSW-NB15_4.csv,97588754,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/CSV Files/Training and Testing Sets/UNSW_NB15_training-set.csv,32293018,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/1.pcap,2000000048,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/10.pcap,2000000053,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/11.pcap,2000000224,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/12.pcap,2000001051,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/13.pcap,2000001262,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/14.pcap,2000000111,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/15.pcap,2000001401,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/16.pcap,2000000702,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/17.pcap,2000001268,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/pcap files/pcaps 17-2-2015/27.pcap,596074496,exceeds_25_MiB,NO
+Data/BoT-IoT/Raw/Reports/report 17-2-2015.pdf,54270656,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,77123859,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,76906168,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Friday-WorkingHours-Morning.pcap_ISCX.csv,58316725,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Monday-WorkingHours.pcap_ISCX.csv,176927918,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,83102436,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,52023263,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Tuesday-WorkingHours.pcap_ISCX.csv,135078995,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/MachineLearningCVE/Wednesday-workingHours.pcap_ISCX.csv,225166395,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,96101069,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,101874777,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Friday-WorkingHours-Morning.pcap_ISCX.csv,75386737,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Monday-WorkingHours.pcap_ISCX.csv,268649908,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,108723183,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,92030223,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Tuesday-WorkingHours.pcap_ISCX.csv,174696560,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/CSVs/TrafficLabelling_/Wednesday-workingHours.pcap_ISCX.csv,285642925,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/PCAPs/Friday-WorkingHours.pcap,8839309056,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/PCAPs/Monday-WorkingHours.pcap,10822507416,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/PCAPs/Thursday-WorkingHours.pcap,8302500180,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/PCAPs/Tuesday-WorkingHours.pcap,11048283608,exceeds_25_MiB,NO
+Data/CICIDS2017/Raw/PCAPs/Wednesday-workingHours.pcap,13420789612,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Friday-02-03-2018_TrafficForML_CICFlowMeter.csv,352368373,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Friday-16-02-2018_TrafficForML_CICFlowMeter.csv,333723605,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Friday-23-02-2018_TrafficForML_CICFlowMeter.csv,382840456,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Thuesday-20-02-2018_TrafficForML_CICFlowMeter.csv,4054925350,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Thursday-01-03-2018_TrafficForML_CICFlowMeter.csv,107842858,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv,375945899,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Thursday-22-02-2018_TrafficForML_CICFlowMeter.csv,382636202,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv,358223333,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Wednesday-21-02-2018_TrafficForML_CICFlowMeter.csv,328893673,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Wednesday-28-02-2018_TrafficForML_CICFlowMeter.csv,209249758,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Friday-02-03-2018_TrafficForML_CICFlowMeter.csv,352368373,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Friday-16-02-2018_TrafficForML_CICFlowMeter.csv,333723605,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Friday-23-02-2018_TrafficForML_CICFlowMeter.csv,382840456,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Thuesday-20-02-2018_TrafficForML_CICFlowMeter.csv,4054925350,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Thursday-01-03-2018_TrafficForML_CICFlowMeter.csv,107842858,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv,375945899,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Thursday-22-02-2018_TrafficForML_CICFlowMeter.csv,382636202,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv,358223333,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Wednesday-21-02-2018_TrafficForML_CICFlowMeter.csv,328893673,exceeds_25_MiB,NO
+Data/CSE-CIC-IDS2018/Raw/Processed Traffic Data for ML Algorithms/Wednesday-28-02-2018_TrafficForML_CICFlowMeter.csv,209249758,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/BRO Files/BRO Files 22-1-2015/11/conn.log,202058020,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/NUSW-NB15_GT.csv,86426111,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/UNSW-NB15_1.csv,168979718,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/UNSW-NB15_2.csv,165221021,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/UNSW-NB15_3.csv,154588103,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/UNSW-NB15_4.csv,97588754,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/CSV Files/Training and Testing Sets/UNSW_NB15_training-set.csv,32293018,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/1.pcap,2000000048,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/10.pcap,2000000053,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/11.pcap,2000000224,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/12.pcap,2000001051,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/13.pcap,2000001262,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/14.pcap,2000000111,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/15.pcap,2000001401,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/16.pcap,2000000702,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/17.pcap,2000001268,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/pcap files/pcaps 17-2-2015/27.pcap,596074496,exceeds_25_MiB,NO
+Data/UNSW-NB15/Raw/Reports/report 17-2-2015.pdf,54270656,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CICIDS2017/Manifests/global_row_hashes.sqlite,149729280,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00027.csv.gz,26333362,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00029.csv.gz,26401538,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00030.csv.gz,26295084,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00031.csv.gz,26540831,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00032.csv.gz,26382620,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00033.csv.gz,27229582,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00034.csv.gz,27330924,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00035.csv.gz,27120614,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00036.csv.gz,26970242,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00037.csv.gz,27225820,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00038.csv.gz,27462511,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00039.csv.gz,27212306,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00040.csv.gz,27082861,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00041.csv.gz,27173576,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00042.csv.gz,27125728,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00043.csv.gz,26807670,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00044.csv.gz,27098916,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00045.csv.gz,27228010,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00046.csv.gz,27029849,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00047.csv.gz,27061651,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00048.csv.gz,27138174,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00049.csv.gz,26741377,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00050.csv.gz,26296845,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00051.csv.gz,26649359,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00052.csv.gz,26217811,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00053.csv.gz,26249829,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Cleaned_Data/cleaned_part_00054.csv.gz,26506750,exceeds_25_MiB,NO
+Results/Experiment_01_Data_Preparation/Phase_02_Integrity_Verification/Step_02_Data_Cleaning/CSE-CIC-IDS2018/Manifests/global_row_hashes.sqlite,958881792,exceeds_25_MiB,NO
+Results/Experiment_02_Baseline_Models/Experiment_01_Baseline_Classification/CICIDS2017/Random_Forest/Model/trained_pipeline.pkl,52387232,exceeds_25_MiB,NO
+Results/Experiment_02_Baseline_Models/Experiment_01_Baseline_Classification/CSE-CIC-IDS2018/Random_Forest/Model/trained_pipeline.pkl,369147875,exceeds_25_MiB,NO
+Results/Experiment_03_Framework_Validation/Experiment_02_Multiview_Evidence/Phase_02_View_Models/CICIDS2017/Predictions/view_predictions_and_reliability.csv,110869787,exceeds_25_MiB,NO
+Results/Experiment_03_Framework_Validation/Experiment_02_Multiview_Evidence/Phase_02_View_Models/CSE-CIC-IDS2018/Predictions/view_predictions_and_reliability.csv,133698261,exceeds_25_MiB,NO
+Results/Experiment_03_Framework_Validation/Experiment_03_FERF_Validation/CICIDS2017/Predictions/ferf_test_predictions.csv,27767463,exceeds_25_MiB,NO
+Results/Experiment_03_Framework_Validation/Experiment_03_FERF_Validation/CSE-CIC-IDS2018/Predictions/ferf_test_predictions.csv,27314075,exceeds_25_MiB,NO
+Results/Experiment_03_Framework_Validation/Experiment_03_FERF_Validation_Corrected/CICIDS2017/Reports/validation_search.csv,76354679,exceeds_25_MiB,NO
+SASP/run_logs/Data/BoT-IoT/Raw/BRO Files/BRO Files 22-1-2015/11/conn.log,202058020,exceeds_25_MiB,NO
+SASP/run_logs/Data/UNSW-NB15/Raw/BRO Files/BRO Files 22-1-2015/11/conn.log,202058020,exceeds_25_MiB,NO
+SASP/saved_models/Results/Experiment_02_Baseline_Models/Experiment_01_Baseline_Classification/CICIDS2017/Random_Forest/Model/trained_pipeline.pkl,52387232,exceeds_25_MiB,NO
+SASP/saved_models/Results/Experiment_02_Baseline_Models/Experiment_01_Baseline_Classification/CSE-CIC-IDS2018/Random_Forest/Model/trained_pipeline.pkl,369147875,exceeds_25_MiB,NO

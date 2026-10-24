@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated research paper and the archived software release
+  when a verified DOI becomes available.
+title: "Quality-Guided Fusion of Semantic Network-Flow Views for Forensic Intrusion Analysis"
+type: software
+authors:
+  - family-names: "Rokaya"
+    given-names: "Mahmoud"
+version: "1.0.0"
+abstract: >-
+  Research code and selected experimental resources supporting quality-guided
+  fusion of semantic network-flow views for forensic intrusion analysis.
+# REVIEW BEFORE RELEASE: Verify complete author list, author order, version,
+# repository-code URL, release date, and Zenodo DOI against the final manuscript.

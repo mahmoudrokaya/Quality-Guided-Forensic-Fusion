@@ -1,0 +1,17 @@
+# Dependencies detected from source import inventory (not version-pinned).
+# Verify these packages and exact versions against the validated environment.
+# Platform tools and non-Python dependencies are not included.
+PyMuPDF
+catboost
+lightgbm
+matplotlib
+numpy
+openpyxl
+pandas
+psutil
+pyarrow
+python-docx
+python-pptx
+scikit-learn
+scipy
+xgboost

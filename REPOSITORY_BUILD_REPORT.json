@@ -1,0 +1,31 @@
+{
+  "report_type": "SOURCE_INVENTORY_BASED_PREPARATION_NOT_EXECUTED_BUILD",
+  "manuscript_title": "Quality-Guided Fusion of Semantic Network-Flow Views for Forensic Intrusion Analysis",
+  "repository_name": "Quality-Guided-Forensic-Fusion",
+  "source_root": "E:\\47\\472\\New_Papers\\Reliability-Aware Multi-View Forensic Evidence_Submitted_IEEE A-Submitted\\Experiments",
+  "destination_root": "E:\\47\\472\\New_Papers\\Reliability-Aware Multi-View Forensic Evidence_Submitted_IEEE A-Submitted\\Experiments_GitHub",
+  "size_limit_bytes": 26214400,
+  "source_inventory": {
+    "total_files": 3489,
+    "total_folders": 559,
+    "total_size_gb_reported": 109.6783,
+    "files_over_threshold": 118,
+    "files_at_or_below_threshold": 3371,
+    "bytes_over_threshold": 111357416531,
+    "bytes_at_or_below_threshold": 6408736172
+  },
+  "copy_verification": {
+    "performed": false,
+    "files_verified": 0,
+    "files_copied_by_this_package": 0,
+    "sha256_verification_performed": false
+  },
+  "large_file_external_storage_verified": false,
+  "limitations": [
+    "This JSON was derived from a previously exported inventory, not from a live scan of Experiments_GitHub.",
+    "The COPY_MANIFEST lists eligible source files, not verified successful copies.",
+    "The EXCLUDED_FILES_MANIFEST records size-based exclusions only; other exclusions must be merged from the actual builder.",
+    "Run the local repository builder and use its generated manifests/report for the authoritative release record."
+  ],
+  "generated_utc": "2026-10-24T20:37:07.162586+00:00"
+}
